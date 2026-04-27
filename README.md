@@ -1,4 +1,4 @@
-# 🚀 Welcome to [본인 이름]'s World!
+# 🚀 Welcome to 임승유's World!
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=250&section=header&text=[닉네임/직무]&fontSize=80" />
